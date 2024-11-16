@@ -37,7 +37,7 @@ I have worked on:
 I am always looking for exciting projects to contribute to or collaborate on. Feel free to reach out if you'd like to work together on something cool!
 
 ## 📫 How to Reach Me
-- Website: [tayyabali.dev](https://tayyabali.dev)
+- Website: [https://tayyabali.dev](https://tayyabali.dev)
 - Email: [tayyabalihere@gmail.com](mailto:tayyabalihere@gmail.com)
 - LinkedIn: [linkedin.com/in/tayyab-ali-9615b715a/](https://www.linkedin.com/in/tayyab-ali-9615b715a/)
 
